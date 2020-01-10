@@ -1,0 +1,41 @@
+Valor=undefined:undefined,0,false,false
+Valor=true:true,1,true,true
+Valor=10:10,1,true,true
+Valor=2:2,1,true,true
+Valor=0:0,0,false,true
+Valor=0:0,1,true,true
+Valor=X:X,1,true,false
+Valor=object:object,1,true,false
+Valor=:,0,false,true
+Valor=palavra:palavra,1,true,false
+Valor= 0 : 0 ,1,true,true
+
+//_____________________________________________
+
+0;1;4;9;16;25;36;49;64;81;
+
+//_____________________________________________
+
+Erro fatal: Essa variável não é um objeto
+
+//_____________________________________________
+
+25
+
+//_____________________________________________
+
+undefined,undefined,10,5.1,saida
+
+//_____________________________________________
+
+1!2!3!4!5!
+
+//_____________________________________________
+
+0 4 16 36 64
+
+//_____________________________________________
+
+true
+-1
+11
